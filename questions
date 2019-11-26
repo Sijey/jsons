@@ -1,0 +1,86 @@
+{
+  "questions": [
+    {
+      id: 1,
+      question: 'What capital of Ukraine?',
+      type: 'input',
+      answer: 'Kiev',
+    },
+    {
+      id: 2,
+      question: 'What capital of Poland?',
+      type: 'select',
+      answers: ['Warsaw', 'Krakow', 'Lublin'],
+      answer: 'Warsaw',
+    },
+    {
+      id: 3,const questions = [
+    {
+      id: 1,
+      question: 'What capital of Ukraine?',
+      type: 'input',
+      answer: 'Kiev',
+    },
+    {
+      id: 2,
+      question: 'What capital of Poland?',
+      type: 'select',
+      answers: ['Warsaw', 'Krakow', 'Lublin'],
+      answer: 'Warsaw',
+    },
+    {
+      id: 3,
+      question: 'What capital of Germany?',
+      type: 'radio',
+      answers: ['Berlin', 'Munich',],
+      answer: 'Berlin',
+    },
+    {
+      id: 4,
+      question: 'What capital of France?',
+      type: 'input',
+      answer: 'Paris',
+    },
+    {
+      id: 5,
+      question: 'What capital of Italy?',
+      type: 'input',
+      answer: 'Rome',
+    },
+    {
+      id: 6,
+      question: 'Select countries that are in europe',
+      type: 'checkbox',
+      answers: ['France', 'Germany', 'Italy', 'Canada'],
+      answer: ['France', 'Germany', 'Italy'],
+    },
+  ];
+
+  export default questions;
+
+      question: 'What capital of Germany?',
+      type: 'radio',
+      answers: ['Berlin', 'Munich',],
+      answer: 'Berlin',
+    },
+    {
+      id: 4,
+      question: 'What capital of France?',
+      type: 'input',
+      answer: 'Paris',
+    },
+    {
+      id: 5,
+      question: 'What capital of Italy?',
+      type: 'input',
+      answer: 'Rome',
+    },
+    {
+      id: 6,
+      question: 'Select countries that are in europe',
+      type: 'checkbox',
+      answers: ['France', 'Germany', 'Italy', 'Canada'],
+      answer: ['France', 'Germany', 'Italy'],
+    },
+  ]
+}
